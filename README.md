@@ -65,6 +65,17 @@ pull vs fetch
 7. 인용문 (>>)
 
 8. 소스 코드 (``` ~ ```)
+   - 한줄 소스코드
+     한 줄짜리 소스 코드는 `fucntion add(x,y) {return x + y;}` 처럼 사용
+  - 두 줄 이상 소스 코드
+    ```
+    <script>
+      var A= 1
+      var B= 1
+      var sum =A+B
+      document.write("두 수의 합은 " + sum);
+    </script>
+    ```
 
 9. 링크( <링크 주소>, [링크 텍스트](링크 주소) , [링크 텍스트](링크주소,"부가 설명")
 
